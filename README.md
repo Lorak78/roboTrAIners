@@ -10,7 +10,9 @@ TurtleBot is a standardized robotic platform developed for ROS education and res
 *source:* [emanual](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
 
 ## Getting started with TurtleBot3
-**IMPORTANT NOTE:** Above some of the web guide tabs, you will have these options to choose from ![image](https://github.com/user-attachments/assets/9f96f33e-212e-4761-b750-fd651913d013)
+**IMPORTANT NOTE:** Above some of the web guide tabs, you will have these options to choose from 
+
+![image](https://github.com/user-attachments/assets/9f96f33e-212e-4761-b750-fd651913d013)
 
 It is **REALLY IMPORTANT** for you to stick with one and only one of these, if you mix up the different guide versions, you might have to restart from scratch.
 **Note:** not every page has the *jazzy* option, as it is still WIP, so i highly recommend not choosing that one.
