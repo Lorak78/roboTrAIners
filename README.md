@@ -4,7 +4,9 @@ This repository contains our DM65 AI course material, we decided to explore **RO
 ## Introduction to TurtleBot
 TurtleBot is a standardized robotic platform developed for ROS education and research. The concept of the TurtleBot platform is derived from Turtle robots used to teach foundational robotics and computer science since the early 1940s. TurtleBot is designed as a simplified, easily upgradable platform to teach people who are new to ROS, and to provide a capable base system for more advanced development. Since it’s inception TurtleBot has become the standard educational ROS platform, as well as the most popular robotics platform among developers and students worldwide.
 
+
 ![image](https://github.com/user-attachments/assets/a1920af0-4d32-4783-9d4e-8a7d2f0dc8c7)
+
 *source:* [emanual](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
 
 ## Getting started with TurtleBot3
